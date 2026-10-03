@@ -1,0 +1,6 @@
+{
+  "name": "HTML View + Live",
+  "description": "Real-time HTML/CSS/JS live preview playground with instant debounce reloads, sandboxed iframe isolation, responsive device testing, error overlay, and snapshot management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
